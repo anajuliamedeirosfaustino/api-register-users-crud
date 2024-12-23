@@ -13,10 +13,6 @@ Express - Web framework for building RESTful APIs.
 Yarn - Dependency manager for managing packages.
 
 Setup
-Clone the repository:
-
-git clone https://github.com/your-repository/user-crud-api.git
-cd user-crud-api
 
 Install dependencies using Yarn:
 
@@ -48,10 +44,6 @@ Node.js - Ambiente de execução JavaScript para desenvolvimento no lado do serv
 Express - Framework web para construção de APIs RESTful.
 Yarn - Gerenciador de dependências.
 Configuração
-Clone o repositório:
-
-git clone https://github.com/seu-repositorio/user-crud-api.git
-cd user-crud-api
 
 Instale as dependências usando o Yarn:
 
